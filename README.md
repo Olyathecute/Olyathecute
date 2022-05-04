@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Olya - Frontend developer <img width="30" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
+# 👋 Hi, I’m Olya - Frontend developer <img width="30" height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
 
 I am looking for a full-time remote job.
 I continue my self-education to fully comply with the chosen profession.
