@@ -30,8 +30,8 @@ I have a passion for learning new things, continuous improvement and highly inte
 ## Contact with me:
 
 <div align="center">
-<a href="https://www.linkedin.com/in/olga-sitnikova-a331a3230/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/768px-LinkedIn_icon_circle.svg.png" alt="" height="40" /></a>
-<a href="mailto:sitnikova.olga.v@outlook.com" target="_blank" ><img align="center" src="https://icon-library.com/images/email-icon-png/email-icon-png-27.jpg" alt="" height="50" /></a>
+<a href="https://www.linkedin.com/in/olga-sitnikova-a331a3230/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/37273/linkedin.svg" alt="" height="40" /></a>
+<a href="mailto:sitnikova.olga.v@outlook.com" target="_blank" ><img align="center" src="https://www.svgrepo.com/show/258730/email-mail.svg" alt="" height="40" /></a>
 <a href="https://t.me/olga_sitnikova" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="" height="40" /></a>
 </div>
 
