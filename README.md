@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Olya - Frontend developer <img width="30" height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
 
-I am looking for a full-time remote job.
-I continue my self-education to fully comply with the chosen profession.
-I have a passion for learning new things, continuous improvement and highly interested in a fast-paced software development environment.
+<div><b>I am looking for a full-time remote job.</b></div>
+<div>I continue my self-education to fully comply with the chosen profession.</div>
+<div>I have a passion for learning new things, continuous improvement and highly interested in a fast-paced software development environment.</div>
 
 ## My skills
 <div align="center">
