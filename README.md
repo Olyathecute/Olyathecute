@@ -27,7 +27,7 @@
 </div>
 
 
-## Contact with me:
+## Contact with me
 
 <div align="center">
 <a href="https://www.linkedin.com/in/olga-sitnikova-a331a3230/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/37273/linkedin.svg" alt="" height="40" /></a>
