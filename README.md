@@ -13,7 +13,7 @@
     <th>CSS3</th>
     <th>React</th>
     <th>Redux</th>
-    <th>Webpack</th>
+    <th>TypeScript</th>
   </tr>
   <tr>
     <th>SASS, SCSS</th>
