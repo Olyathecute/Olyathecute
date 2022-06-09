@@ -28,17 +28,11 @@
 
 ## You can see some of my pet projects on GitHub Pages:
 
-- **Concert-club** (using reduxjs/toolkit and external API): 
-  - https://olyathecute.github.io/Concert-club/
-- **Beer generator** (using external API with theme and language toggle via useContext):
-  - https://olyathecute.github.io/Beer-generator/
-- **Gallery** (using redux, redux-saga, bootstrap): 
-  - https://olyathecute.github.io/Gallery/
-- **Exchange-rate** (working with API and Promises): 
-  - https://olyathecute.github.io/Exchange-rate/
-- **Cheers** (landing page):
-  -  https://olyathecute.github.io/Cheers/
-
+- <a href="https://olyathecute.github.io/Concert-club/" target="_blank">**Concert-club**</a> (using reduxjs/toolkit and external API)
+- <a href="https://olyathecute.github.io/Beer-generator/" target="_blank">**Beer generator**</a> (using external API with theme and language toggle via useContext)
+- <a href="https://olyathecute.github.io/Gallery/" target="_blank">**Gallery**</a> (using redux, redux-saga, bootstrap)
+- <a href="https://olyathecute.github.io/Exchange-rate/" target="_blank">**Exchange-rate**</a> (working with API and Promises)
+- <a href="https://olyathecute.github.io/Cheers/" target="_blank">**Cheers**</a> (landing page)
 
 
 ## Contact with me
