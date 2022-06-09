@@ -26,6 +26,20 @@
 </table>
 </div>
 
+## You can see some of my pet projects on GitHub Pages:
+
+- **Concert-club** (using reduxjs/toolkit and external API): 
+  - https://olyathecute.github.io/Concert-club/
+- **Beer generator** (using external API with theme and language toggle via useContext):
+  - https://olyathecute.github.io/Beer-generator/
+- **Gallery** (using redux, redux-saga, bootstrap): 
+  - https://olyathecute.github.io/Gallery/
+- **Exchange-rate** (working with API and Promises): 
+  - https://olyathecute.github.io/Exchange-rate/
+- **Cheers** (landing page):
+  -  https://olyathecute.github.io/Cheers/
+
+
 
 ## Contact with me
 
