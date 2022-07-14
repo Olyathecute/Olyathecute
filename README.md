@@ -3,7 +3,6 @@
 :heart: Programming | :world_map: Travelling | :dragon: Anime 
 
 <div>I`m a frontend developer with one year of React experience. I continue my self-education to fully comply with the chosen profession.</div>
-<div>I`m looking for a full-time remote job.</div>
 
 <div align="center">
   <h5>You can contact with me by </h5>
