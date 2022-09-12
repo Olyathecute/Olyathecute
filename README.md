@@ -8,10 +8,9 @@
 
 
 <div>Welcome to my page!</div>
-<div>I`m <b>Frontend developer</b> with one year of React experience. </div>
+<div>I`m <b>Frontend developer</b> with a year of experience. </div>
+<div>The technology stack is based on the JavaScript and React. </div>
 <div>I continue my self-education to fully comply with the chosen profession.</div>
-</br>
-<div>I enjoy traveling, snowboarding, swimming, drawing, watching anime and start practising yoga :lotus_position: :otter: </div>
 
 </br>
 
@@ -43,6 +42,6 @@
 <div> :chart: <b>  <a href="https://olyathecute.github.io/Exchange-rate/" target="_blank">Exchange-rate </a></b> (working with API and Promises)</div>
 <div> :clinking_glasses:  <b> <a href="https://olyathecute.github.io/Cheers/" target="_blank">Cheers</a>  </b>(landing page)</div>
 
-
+### ... and a few other projects 👇
 
 
