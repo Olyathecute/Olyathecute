@@ -8,7 +8,7 @@
 
 
 <div>Welcome to my page!</div>
-<div>I`m <b>Frontend developer</b> with a year of experience. </div>
+<div>I`m <b>Frontend developer.</b></div>
 <div>The technology stack is based on the JavaScript and React. </div>
 <div>I continue my self-education to fully comply with the chosen profession.</div>
 
