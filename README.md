@@ -7,12 +7,12 @@
 <a href="https://www.instagram.com/sitnikovaolga_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/></a>
 
 
-<p>Welcome to my page!</p>
-<p>I`m <b>Frontend developer.</b></p>
-<p>My technology stack is based on React. </p>
-<p>I continue my self-education to fully comply with the chosen profession :alien: </p>
+<div>Welcome to my page!</div>
+<div>I`m <b>Frontend developer.</b></div>
+<div>My technology stack is based on React. </div>
+<div>I continue my self-education to fully comply with the chosen profession :alien: </v>
 <p></p>
-<p>Now I'm looking for a new job, maybe I can become your colleague? :smirk: </p>
+<div>Now I'm looking for a new job, maybe I can become your colleague? :smirk: </div>
 
 </br>
 
@@ -38,7 +38,7 @@
 
 ## You can see some of my projects on GitHub Pages
 
-<div> :mag:  <b> <a href="https://olyathecute.github.io/CardMemoryGame/" target="_blank">Card Memory Game</a>  </b>(try yourself in this game) </div>
+<div> :brain:  <b> <a href="https://olyathecute.github.io/CardMemoryGame/" target="_blank">Card Memory Game</a>  </b>(try yourself in this game) </div>
 <div> :beers:  <b> <a href="https://olyathecute.github.io/Beer-generator/" target="_blank">Beer generator</a>  </b>(using external API with theme and language toggle via useContext) </div>
 <div> :chart: <b>  <a href="https://olyathecute.github.io/Exchange-rate/" target="_blank">Exchange-rate </a></b> (working with API and Promises)</div>
 <div> :clinking_glasses:  <b> <a href="https://olyathecute.github.io/Cheers/" target="_blank">Cheers</a>  </b>(landing page)</div>
