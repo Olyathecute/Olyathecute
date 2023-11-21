@@ -16,7 +16,6 @@
 
 </br>
 
-  
 ## My skills
 
 <div align="center">
@@ -26,6 +25,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="55" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript " alt="TypeScript" width="55" height="55"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="SocketIO" alt="SocketIO" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="55" height="55"/>
 <img src="https://alley.co/wp-content/uploads/2021/01/atom.png" title="styled-component" alt="styled-component" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/>
@@ -38,11 +38,12 @@
 
 ## You can see some of my projects on GitHub Pages
 
-<div> :brain:  <b> <a href="https://olyathecute.github.io/CardMemoryGame/" target="_blank">Card Memory Game</a>  </b>(try yourself in this game) </div>
-<div> :beers:  <b> <a href="https://olyathecute.github.io/Beer-generator/" target="_blank">Beer generator</a>  </b>(using external API with theme and language toggle via useContext) </div>
-<div> :chart: <b>  <a href="https://olyathecute.github.io/Exchange-rate/" target="_blank">Exchange-rate </a></b> (working with API and Promises)</div>
-<div> :clinking_glasses:  <b> <a href="https://olyathecute.github.io/Cheers/" target="_blank">Cheers</a>  </b>(landing page)</div>
-<div> :sparkler:  <b> <a href="https://olyathecute.github.io/Gallery/" target="_blank">Gallery</a>  </b>(using redux, redux-saga, bootstrap)</div>
+<div> :brain: <b> <a href="https://olyathecute.github.io/CardMemoryGame/" target="_blank">Card Memory Game</a>  </b>(try yourself in this game) </div>
+<div> :speech_balloon: <b> <a href="https://olyathecute.github.io/LocalChat-client/" target="_blank">Local Chat</a>  </b>(real-time chat with cloud server) </div>
+<div> :beers: <b> <a href="https://olyathecute.github.io/Beer-generator/" target="_blank">Beer generator</a>  </b>(used external API with theme and language toggle via useContext) </div>
+<div> :chart: <b> <a href="https://olyathecute.github.io/Exchange-rate/" target="_blank">Exchange-rate </a></b> (worked with API and Promises)</div>
+<div> :clinking_glasses: <b> <a href="https://olyathecute.github.io/Cheers/" target="_blank">Cheers</a>  </b>(landing page)</div>
+<div> :sparkler: <b> <a href="https://olyathecute.github.io/Gallery/" target="_blank">Gallery</a>  </b>(used redux, redux-saga, bootstrap)</div>
 
 ### ... and a few other projects 👇
 
