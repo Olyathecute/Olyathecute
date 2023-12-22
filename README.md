@@ -1,8 +1,12 @@
 
 # Hey, nice to see you! 👋
 
+
 <a href="mailto:sitnikova.olga.v@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30"/></a>
+<span>&nbsp;&nbsp;</span>
 <a href="https://t.me/olga_sitnikova" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30"/></a>
+<span>&nbsp;&nbsp;</span>
+<a href="https://www.linkedin.com/in/olga-sitnikova-a331a3230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
 
 
 
