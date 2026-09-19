@@ -34,7 +34,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/>
 <img src="https://v4.material-ui.com/static/logo.png" title="Material-ui" alt="Material-ui" width="55" height="55"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" title="Photoshop " alt="Photoshop" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Photoshop " alt="Photoshop" width="55" height="55"/>
 </div>
 
 </br>
