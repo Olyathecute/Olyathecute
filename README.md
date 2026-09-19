@@ -45,8 +45,8 @@
 <div> :speech_balloon: <b> <a href="https://olyathecute.github.io/LocalChat-client/" target="_blank">Local Chat</a>  </b>(real-time chat with cloud server) </div>
 <div> :beers: <b> <a href="https://olyathecute.github.io/Beer-generator/" target="_blank">Beer generator</a>  </b>(used external API with theme and language toggle via useContext) </div>
 <div> :chart: <b> <a href="https://olyathecute.github.io/Exchange-rate/" target="_blank">Exchange-rate </a></b> (worked with API and Promises)</div>
-<div> :clinking_glasses: <b> <a href="https://olyathecute.github.io/Cheers/" target="_blank">Cheers</a>  </b>(landing page)</div>
-<div> :sparkler: <b> <a href="https://olyathecute.github.io/Gallery/" target="_blank">Gallery</a>  </b>(used redux, redux-saga, bootstrap)</div>
+<div> :bulb: <b> <a href="https://olyathecute.github.io/Quiz" target="_blank">Quiz</a>  </b>(axios, react-hooks, react-query, react-beautiful-dnd, scss)</div>
+<div> :art: <b> <a href="https://olyathecute.github.io/Gallery/" target="_blank">Gallery</a>  </b>(used redux, redux-saga, bootstrap)</div>
 
 ### ... and a few other projects 👇
 
