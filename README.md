@@ -43,6 +43,7 @@
 
 <div> :bulb: <b> <a href="https://github.com/Olyathecute/Quiz" target="_blank">Quiz</a>  </b>(axios, react-hooks, react-query, react-beautiful-dnd, scss)</div>
 <div> :beers: <b> <a href="https://olyathecute.github.io/Beer-generator/" target="_blank">Beer Generator</a>  </b>(used external API with theme and language toggle via useContext) </div>
+<div> :brain: <b> <a href="https://olyathecute.github.io/Geisha/" target="_blank">Geisha Page</a>  </b>(webpage, used TS, Vite) </div>
 <div> :brain: <b> <a href="https://olyathecute.github.io/CardMemoryGame/" target="_blank">Card Memory Game</a>  </b>(try yourself in this game) </div>
 <div> :speech_balloon: <b> <a href="https://olyathecute.github.io/LocalChat-client/" target="_blank">Local Chat</a>  </b>(real-time chat with cloud server) </div>
 <div> :art: <b> <a href="https://olyathecute.github.io/Gallery/" target="_blank">Gallery</a>  </b>(used redux, redux-saga, bootstrap)</div>
@@ -50,5 +51,8 @@
 <div> :currency_exchange: <b> <a href="https://olyathecute.github.io/CryptoExchange/" target="_blank">Crypto Exchange</a>  </b>(axios, react-query, styled-component)</div>
 
 ### ... and a few other projects 👇
+
+
+
 
 
